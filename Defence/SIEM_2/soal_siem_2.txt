@@ -1,0 +1,31 @@
+Username: wazuh
+Password: wazuh
+
+You can access the web interface https://<wazuh-dashboard-ip>:443
+    User: admin
+    Password: 8CNDl0s4arF5KzCBWI3gituP3*aii7s+
+
+Set time to : 11 Januari 2024
+
+PW Zip: Th15-15-Ch4ll-513m
+
+1. kapan pertama kali security event terdeteksi oleh wazuh
+Example : bulan tanggal, tahun @ jam
+
+2. Ada berapa total security event pada agent yang terdeteksi oleh wazuh
+Example : 222
+
+3. Berapa kali gagal pemeriksaan autentifikasi yang terdeteksi
+Exapmle : 222
+
+4. Mengapa banyak sekali authentification failure, apakah terdapat serangan? sebutkan!
+Example : serangan
+
+5. Berapa IP penyerang yang melakukan serangan tersebut
+Example : x.x.x.x
+
+6. Kapan Waktu pertama kali penyerangan tersebut
+Example : bulan tanggal, tahun @ jam
+
+7. Berapa kali pemeriksaan autentifikasi berhasil dilakukan
+Eample : x
